@@ -1,0 +1,24 @@
+SOAP Note for Transcript: encounter_2.txt
+Generated: 2025-05-14 08:32:48
+Model: m42-health/Llama3-Med42-8B (8-bit Quantized)
+---
+
+**S (Subjective):**
+The patient, a graduate student, reports experiencing headaches for approximately two to three weeks, occurring at least three times a week, with increased frequency and severity over the past week. The headaches are described as mild to moderate, rated around 5/10 in intensity, localized around the front of the head and temples. They are exacerbated by stress, particularly when setting up labs or working on her thesis. The headaches improve with Excedrin and heat. No associated nausea, vomiting, visual disturbances, numbness, tingling, weakness, fevers, or chills were reported. The patient denies any significant changes in diet, exercise routine, caffeine intake, or tobacco/alcohol use. She has a history of asthma, not currently using her inhaler, and a family history of hypertension in her father. She is married and describes her parents as generally healthy.
+
+**O (Objective):**
+The patient appeared well-groomed and appropriately dressed during the encounter. Vital signs were not provided in the transcript. Physical examination findings were not detailed. The patient demonstrated intact cognitive functioning and normal psychomotor activity. No evidence of psychosis, suicidal ideation, or homicidal ideation was noted. The patient's GAD-7 score was 16, indicating severe anxiety symptoms, an increase from a previous score of 12.
+
+**A (Assessment):**
+The patient's clinical presentation is consistent with tension-type headaches, likely exacerbated by stress. The increase in GAD-7 score suggests worsening anxiety symptoms. The patient's headaches are not severe enough to suggest migraine, and there are no red flags for secondary causes. The patient's asthma is not currently active, and her family history of hypertension is noted but not currently contributing to her presentation.
+
+**P (Plan):**
+1. Continue weekly individual therapy sessions focusing on Cognitive Behavioral Therapy interventions for anxiety management.
+2. Review and refine previously taught breathing techniques, with emphasis on practicing during periods of lower anxiety to build proficiency.
+3. Introduce progressive muscle relaxation as an additional coping strategy, with in-session demonstration and daily practice assignments.
+4. Implement thought challenging exercises targeting catastrophic thinking patterns related to work performance.
+5. Assign homework to create and maintain a daily anxiety journal to better identify triggers and patterns.
+6. Discuss the potential benefits of consulting with her primary care physician regarding a medication evaluation if symptoms don't improve within 2-3 weeks.
+7. Provide psychoeducation about the relationship between sleep hygiene and anxiety, with specific recommendations for establishing a more consistent sleep routine.
+8. Schedule next appointment for 5/15/2025 at 10:15 am.
+9. No other referrals or coordination of care are necessary at this time.

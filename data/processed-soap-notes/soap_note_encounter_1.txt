@@ -1,0 +1,20 @@
+SOAP Note for Transcript: encounter_1.txt
+Generated: 2025-05-14 08:31:27
+Model: m42-health/Llama3-Med42-8B (8-bit Quantized)
+---
+
+**S (Subjective):**
+The patient, a college-bound volleyball player, presented for a sports physical and inquired about the gardenella vaccine. She reported no current medications, allergies to penicillin and peanuts, and a family history of colon cancer in her grandfather. She has had ear tubes as a child due to recurrent ear infections. She drinks alcohol occasionally on weekends and uses condoms most of the time but has not been tested for STDs or STIs. She sometimes does not wear her seatbelt and does not consistently apply sunscreen.
+
+**O (Objective):**
+Physical examination revealed normal heart and lung sounds, no thoracic spine tenderness, and clean ears. Reflexes were intact, and muscle strength was normal. No rashes or moles were noted. 
+
+**A (Assessment):**
+The patient is a healthy college-bound athlete with no current medical issues identified during the physical examination. She is advised to receive the meningitis and gardasil vaccines. She should be encouraged to consistently wear her seatbelt and apply sunscreen. 
+
+**P (Plan):**
+1. Administer meningitis and gardasil vaccines.
+2. Educate the patient on the importance of wearing her seatbelt and applying sunscreen.
+3. Schedule follow-up appointment for post-vaccination observation.
+4. Encourage the patient to maintain a healthy lifestyle and engage in regular physical activity.
+5. Provide educational materials on STD prevention and encourage her to consider getting tested for STDs/STIs.

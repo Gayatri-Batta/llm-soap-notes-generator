@@ -1,0 +1,21 @@
+SOAP Note for Transcript: encounter_3.txt
+Generated: 2025-05-14 08:34:06
+Model: m42-health/Llama3-Med42-8B (8-bit Quantized)
+---
+
+**S (Subjective):**
+The patient, a married individual with no significant past medical history, presented with a chief complaint of acute onset right-sided lower rib cage pain that began this morning. The pain is described as a constant dull ache, rated between 4-6 on a pain scale of 10, intensifying to 9 with deep breathing or sudden movement. The patient reports no associated nausea, vomiting, constipation, diarrhea, loss of appetite, or unusual weight gain. The patient also mentioned a recent fall two weeks ago, which did not cause immediate pain but resulted in a minor bruise. The patient denies any history of hypertension, diabetes, cancer, thyroid problems, or significant allergies except for morphine, which causes throat swelling. The patient is not currently taking any medications, vitamins, or supplements. The patient's family history includes hypertension and heart disease in the father, who died of a heart attack at 65, and breast cancer in the mother, who died at 60. The patient works as a children's book writer and consumes alcohol socially, with no tobacco or illicit drug use. The patient is sexually active within a monogamous marriage.
+
+**O (Objective):**
+The patient appeared well-groomed and appropriately dressed. No vital signs were provided in the transcript. The patient reported no evidence of psychosis, suicidal ideation, or homicidal ideation. No physical examination findings were detailed in the transcript.
+
+**A (Assessment):**
+The primary assessment is acute right-sided lower rib cage pain, described as a dull ache, intensifying with deep breathing or sudden movement. Differential diagnoses could include musculoskeletal strain or possible rib fracture, considering the recent fall. The absence of systemic symptoms and the localized nature of the pain suggest a non-systemic etiology. The patient's history of a recent fall and the localized pain raise the possibility of a traumatic injury.
+
+**P (Plan):**
+1. Conduct a thorough physical examination focusing on the right lower rib cage to assess for tenderness, swelling, or deformity.
+2. Order imaging studies, such as a chest X-ray or CT scan, to evaluate for rib fracture or other musculoskeletal injuries.
+3. Advise the patient to avoid activities that exacerbate the pain and to use over-the-counter analgesics as needed for pain management.
+4. Schedule a follow-up appointment to review imaging results and reassess the patient's symptoms.
+5. If imaging confirms a rib fracture, refer the patient to an orthopedic specialist for further evaluation and management.
+6. Educate the patient on signs of worsening symptoms, such as increased pain, difficulty breathing, or fever, and advise seeking immediate medical attention if these occur.

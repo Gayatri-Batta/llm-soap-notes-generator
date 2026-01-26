@@ -1,0 +1,26 @@
+SOAP Note for Transcript: encounter_6.txt
+Generated: 2025-05-14 08:37:19
+Model: m42-health/Llama3-Med42-8B (8-bit Quantized)
+---
+
+**S (Subjective):**
+The patient, Mr. Tell Harding, reports no known heart problems and has not experienced any specific heart-related symptoms. He mentions occasional shortness of breath when exerting himself, such as when running for the bus, which he believes is normal. He has had annual check-ups with his general practitioner, where his blood pressure has been reported as within the normal range.
+
+**O (Objective):**
+Physical examination findings include:
+- Normal cardiovascular examination with regular pulse in both hands and wrists.
+- Normal blood pressure readings using both stethoscope and automated cuff.
+- No abnormalities noted in facial examination, including tongue and neck assessment.
+- Abdominal examination shows no tenderness or abnormalities.
+- Respiratory examination via auscultation of the back reveals clear and equal air movement in both lungs.
+- No abnormalities detected in the feet or pulses.
+
+**A (Assessment):**
+Based on the subjective and objective findings, Mr. Harding appears to have no current cardiovascular issues. His occasional shortness of breath during exertion is likely normal and not indicative of a heart problem. The normal blood pressure readings and unremarkable physical examination support this assessment.
+
+**P (Plan):**
+1. No immediate cardiovascular interventions are necessary.
+2. Continue routine health maintenance and follow-up with primary care physician as scheduled.
+3. Educate Mr. Harding on recognizing signs of potential cardiovascular issues and advise him to report any new or worsening symptoms.
+4. Encourage regular physical activity within his comfort level to maintain cardiovascular health.
+5. Schedule the next follow-up appointment as per routine care guidelines.
